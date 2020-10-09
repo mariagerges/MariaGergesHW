@@ -2,7 +2,7 @@
 Discription of My Data Visualization Project For CS40
 # First Plot 
 
-![Runtime/episode for each season of Stranger Things](https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/egyptian-pyramid,-egyptian-pyramids-facts,-egyptian-pyramid-inside.jpg)
+![Runtime/episode for each season of Stranger Things](Figure_1.png)
 
 **The Egyptian pyramids** are ancient pyramid-shaped masonry structures located in *Egypt.* As of November 2008, sources cite either 118 or 138 as the number of identified Egyptian pyramids. Most were built as tombs for the country's pharaohs and their consorts during the Old and Middle Kingdom periods.
 

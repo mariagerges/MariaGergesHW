@@ -7,7 +7,7 @@ Discription of My Data Visualization Project For CS40
 
 Here's a link for the data used to make the graph: http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes
 
-
+# Second Plot 
 ## Gross national income per capita (PPP int. $) / Year AND Neonates protected at birth against neonatal tetanus (PAB) (%)/ Year
 ![Gross national income per capita (PPP int. $) / Year AND Neonates protected at birth against neonatal tetanus (PAB) (%)/ Year](Figure_2.png)
 

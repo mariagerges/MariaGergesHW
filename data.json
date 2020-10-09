@@ -1,0 +1,2347 @@
+{
+    "fact": [
+              {
+                "dims": {
+                          "GHO": "Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "37 [13-42]"
+              },
+              {
+                "dims": {
+                          "GHO": "Antiretroviral therapy coverage among people with advanced HIV infection (%), WHO 2006 guidelines",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "19 [12-22]"
+              },
+              {
+                "dims": {
+                          "GHO": "Cellular subscribers (per 100 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "120"
+              },
+              {
+                "dims": {
+                          "GHO": "Cellular subscribers (per 100 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "101"
+              },
+              {
+                "dims": {
+                          "GHO": "Cellular subscribers (per 100 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged 6-59 months who received vitamin A supplementation (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "12.4"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged 6-59 months who received vitamin A supplementation (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "13.8"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with ARI symptoms who took antibiotic treatment (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "62.8"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with ARI symptoms who took antibiotic treatment (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "73.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with ARI symptoms who took antibiotic treatment (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "52.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with diarrhoea receiving ORT (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Comments": "Oral rehydration therapy (ORT) includes solutions prepared from ORS packets and recommended home solution (RHS), e.g., sugar-salt solutions.  ",
+                "Value": "29.8"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with diarrhoea receiving ORT (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Comments": "Oral rehydration therapy (ORT) includes solutions prepared from ORS packets and recommended home solution (RHS), e.g., sugar-salt solutions.  ",
+                "Value": "28.4"
+              },
+              {
+                "dims": {
+                          "GHO": "Children aged <5 years with diarrhoea receiving ORT (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Comments": "Oral rehydration therapy (ORT) includes solutions prepared from ORS packets and recommended home solution (RHS), e.g., sugar-salt solutions.  ",
+                "Value": "35.7"
+              },
+              {
+                "dims": {
+                          "GHO": "Civil registration coverage of births (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Comments": "DHS 2014",
+                "Value": "99.4"
+              },
+              {
+                "dims": {
+                          "GHO": "Civil registration coverage of births (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": ">90"
+              },
+              {
+                "dims": {
+                          "GHO": "Civil registration coverage of births (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to HIV/AIDS (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "<1"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "10600"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "10330"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "10360"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "10070"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "9760"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "9100"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "8560"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "7610"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "7180"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "6830"
+              },
+              {
+                "dims": {
+                          "GHO": "Gross national income per capita (PPP int. $)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "6610"
+              },
+              {
+                "dims": {
+                          "GHO": "Ill-defined causes in cause-of-death registration (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Comments": "Source: GHE2016. Quality category: low.",
+                "Value": "32"
+              },
+              {
+                "dims": {
+                          "GHO": "Most recent census (year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "2006"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonates protected at birth against neonatal tetanus (PAB) (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Prevalence of HIV among adults aged 15 to 49 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "<0.1 [<0.1–<0.1]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "58 [53-65]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "53 [48-59]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "55 [49-61]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "58 [53-65]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "61 [56-67]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "63 [57-69]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "64 [60-69]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "62 [59-65]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "63 [60-66]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "63 [60-67]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "71 [67-75]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "71 [67-75]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "69 [65-73]"
+              },
+              {
+                "dims": {
+                          "GHO": "Tuberculosis treatment coverage",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "66 [62-70]"
+              },
+              {
+                "dims": {
+                          "GHO": "Unmet need for family planning, among girls aged 15-19 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "7.9"
+              },
+              {
+                "dims": {
+                          "GHO": "Congenital Rubella Syndrome - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "17"
+              },
+              {
+                "dims": {
+                          "GHO": "Contraceptive prevalence, among girls aged 15-19 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "23.4"
+              },
+              {
+                "dims": {
+                          "GHO": "Antenatal care coverage - at least one visit, among girls aged 15-19 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "76.5"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Diphtheria - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Births attended by skilled health personnel, among girls aged 15-19 (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "78.8"
+              },
+              {
+                "dims": {
+                          "GHO": "H5N1 influenza - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "11.00"
+              },
+              {
+                "dims": {
+                          "GHO": "H5N1 influenza - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Comments": "All sources of estimates",
+                "Value": "56.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Comments": "Egypt 2014 Demographic and Health Survey",
+                "Value": "56.5"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Comments": "All sources of estimates",
+                "Value": "50.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Comments": "Egypt 2008 Demographic and Health Survey",
+                "Value": "50.5"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Comments": "Egypt 2008 Demographic and Health Survey",
+                "Value": "50.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Comments": "Egypt 2005 Demographic and Health Survey",
+                "Value": "47.9"
+              },
+              {
+                "dims": {
+                          "GHO": "Adolescent birth rate (per 1000 women aged 15-19 years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Comments": "Egypt 2005 Demographic and Health Survey",
+                "Value": "48.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "14 [10–20]"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "17 [12–23]"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "24 [17–35]"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "7 [5–10]"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "6 [5–10]"
+              },
+              {
+                "dims": {
+                          "GHO": "Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "12 [9–20]"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "22"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported confirmed cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Malaria - number of reported deaths",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "5432"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "1314"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "405"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "245"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "26"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "16"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "608"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "668"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "1684"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "953"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "77"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "80"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "164"
+              },
+              {
+                "dims": {
+                          "GHO": "Measles - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "653"
+              },
+              {
+                "dims": {
+                          "GHO": "Contraceptive prevalence (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "60.3"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "5143"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "7626"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "20390"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "531"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "26"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "33"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "50"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "108"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "251"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "251"
+              },
+              {
+                "dims": {
+                          "GHO": "Mumps - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "639"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "583"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "564"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "644"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "649"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "680"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "700"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "797"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "887"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "945"
+              },
+              {
+                "dims": {
+                          "GHO": "Number of new leprosy cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "1134"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "6"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "9"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "6"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "20"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "20"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "11"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "36"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "34"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "46"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "58"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "116"
+              },
+              {
+                "dims": {
+                          "GHO": "Neonatal tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "176"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Pertussis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "0"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "GHO": "Poliomyelitis - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "7"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "53"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "21"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "34"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "35"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "30"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "461"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "608"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "1097"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "11354"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "2587"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "520"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "18"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "261"
+              },
+              {
+                "dims": {
+                          "GHO": "Total rubella - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "274"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "8"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "9"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "264"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "11"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "189"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "34"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "60"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "523"
+              },
+              {
+                "dims": {
+                          "GHO": "Total tetanus - number of reported cases",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "673"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.43 [0.39-0.48]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "0.31 [0.29-0.33]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.33 [0.29-0.37]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "0.67 [0.6-0.74]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "0.86 [0.76-0.97]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "0.72 [0.63-0.81]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "0.87 [0.76-0.99]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "1.1 [0.92-1.2]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "1.1 [0.92-1.2]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "1.1 [0.93-1.3]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "1.2 [1.1-1.4]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "1.2 [1-1.4]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "1.5 [1.3-1.8]"
+              },
+              {
+                "dims": {
+                          "GHO": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "1.4 [1.2-1.7]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "15 [13-16]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "15 [13-16]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "16 [15-18]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "17 [15-19]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "17 [16-19]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "18 [16-20]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "19 [17-20]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "19 [18-20]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "20 [19-21]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "21 [20-22]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "21 [20-23]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "22 [21-24]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "23 [22-24]"
+              },
+              {
+                "dims": {
+                          "GHO": "Incidence of tuberculosis (per 100 000 population per year)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "24 [22-25]"
+              },
+              {
+                "dims": {
+                          "GHO": "Total density per million population: Radiotherapy units",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Comments": "Data from <a href=\"http://www-naweb.iaea.org/nahu/dirac/query3.asp\" target=\"_blank\">DIRA IAEA radiotherapy database</a>, accessed on February 2014",
+                "Value": "0.79"
+              },
+              {
+                "dims": {
+                          "GHO": "Total density per million population: Radiotherapy units",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Comments": "from the DIRA IAEA radiotherapy database (data available online at: http://www-naweb.iaea.org/nahu/dirac/query3.asp)",
+                "Value": "0.70"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Value": "39 [ 30 - 48 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Value": "39 [ 31 - 47 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "40 [ 32 - 48 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "42 [ 35 - 50 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Value": "42 [ 35 - 49 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "45 [ 38 - 52 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Value": "45 [ 39 - 52 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Value": "45 [ 40 - 52 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Value": "47 [ 41 - 53 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Value": "50 [ 44 - 56 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Value": "52 [ 46 - 59 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Value": "54 [ 47 - 61 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Value": "57 [ 50 - 66 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Maternal mortality ratio (per 100 000 live births)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Value": "60 [ 53 - 69 ]"
+              },
+              {
+                "dims": {
+                          "GHO": "Population median age (years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Value": "25.2"
+              },
+              {
+                "dims": {
+                          "GHO": "Population median age (years)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Value": "24.93"
+              },
+              {
+                "dims": {
+                          "GHO": "Population living in urban areas (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Value": "43.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2015"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "15.6"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "15.6"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2013"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2012"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2011"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2010"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "17.3"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2009"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "17.3"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "20.8"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2007"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "21.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2006"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "22.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "22.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2004"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "21.7"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2003"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "21.7"
+              },
+              {
+                "dims": {
+                          "GHO": "Hospital beds (per 10 000 population)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2002"
+                        },
+                "Comments": "WHO EMRO regional observatory (Accessed on 26 May 2020)",
+                "Value": "21.0"
+              },
+              {
+                "dims": {
+                          "GHO": "Births attended by skilled health personnel (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2014"
+                        },
+                "Comments": "DHS 2014.",
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "GHO": "Births attended by skilled health personnel (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2008"
+                        },
+                "Comments": "DHS 2008.",
+                "Value": "79"
+              },
+              {
+                "dims": {
+                          "GHO": "Births attended by skilled health personnel (%)",
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2005"
+                        },
+                "Comments": " DHS 2005.  ",
+                "Value": "74"
+              }
+      ]
+}

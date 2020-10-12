@@ -11,7 +11,7 @@ Here's a link for the data used to make the graph: http://api.tvmaze.com/singles
 
 # Second Plot 
 ## Gross national income per capita (PPP int. $) / Year & Measles - number of reported cases)/ Year
-![Gross national income per capita (PPP int. $) / Year AND Measles - number of reported cases)/ Year] (income and cases.png)
+![Gross national income per capita (PPP int. $) / Year AND Measles - number of reported cases)/ Year] (https://github.com/mariagerges/MariaGergesHW/blob/master/income%20and%20cases.png?raw=true)
 
 Here's a link for the data used to make the graph: https://apps.who.int/gho/data/node.country.country-EGY?lang=en
 haa

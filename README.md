@@ -2,7 +2,7 @@
 Discription of My Data Visualization Project For CS40
 # First Plot 
 
-![Egyptian Pyramids](https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/egyptian-pyramid,-egyptian-pyramids-facts,-egyptian-pyramid-inside.jpg)
+![Egyptian Pyramids](income and cases.png)
 
 ## Average Runtime for each season of Stranger Things
 ![Average Runtime for each season of Stranger Things] (stranger_things.png)

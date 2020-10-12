@@ -12,3 +12,4 @@ Here's a link for the data used to make the graph: http://api.tvmaze.com/singles
 ![Gross national income per capita (PPP int. $) / Year AND Neonates protected at birth against neonatal tetanus (PAB) (%)/ Year](Figure_2.png)
 
 Here's a link for the data used to make the graph: https://apps.who.int/gho/data/node.country.country-EGY?lang=en
+ha wb3deen

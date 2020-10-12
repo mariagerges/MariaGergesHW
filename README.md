@@ -2,7 +2,7 @@
 Discription of My Data Visualization Project For CS40
 # First Plot 
 
-![Egyptian Pyramids](income and cases.png)
+![Egyptian Pyramids](stranger_things.png)
 
 ## Average Runtime for each season of Stranger Things
 ![Average Runtime for each season of Stranger Things] (stranger_things.png)

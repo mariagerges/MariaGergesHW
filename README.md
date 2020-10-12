@@ -3,7 +3,7 @@ Discription of My Data Visualization Project For CS40
 # First Plot 
 
 ## Average Runtime for each season of Stranger Things
-![Average Runtime for each season of Stranger Things] (Figure_1.png)
+![Average Runtime for each season of Stranger Things] (stranger_things.png)
 
 Here's a link for the data used to make the graph: http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes
 

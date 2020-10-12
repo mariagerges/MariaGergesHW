@@ -10,7 +10,7 @@ This data represents the average of the values of runtimes for each episode for 
 Here's a link for the data used to make the graph: http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes
 
 # Second Plot 
-## Gross national income per capita (PPP int. $) / Year & Measles - number of reported cases)/ Year
+## Gross national income per capita (PPP int. $) / Year & Measles - number of reported cases/ Year
 ![Gross national income per capita (PPP int. $) / Year & Measles - number of reported cases](new.png)
 
 The red line graph represents the increase in the Gross national income per capita (PPP int. $) in Egypt throughtout the years. 

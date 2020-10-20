@@ -62,8 +62,6 @@ ax.xaxis.set_major_locator(MaxNLocator(integer=True))
 plt.bar(season, average_runtimes, color='b')
 plt.ylabel('Average Runtime (Mins)')
 plt.xlabel('Season')
-title = 'Average Runtime for each season of Stranger Things'
-plt.title(title)
 plt.show()
 
 
@@ -114,6 +112,4 @@ ax2.tick_params(axis='y', labelcolor = color)
 blue_patch = mpatches.Patch(color='blue', label='cases of Maesles/ year')
 ax2.legend(handles=[blue_patch], loc ='upper left', bbox_to_anchor=(-0.014, 0.92))
 fig.tight_layout()
-title = "Egypt Income values/year & number of cases for Maesles/year"
-plt.title(title)
 plt.show()
